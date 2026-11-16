@@ -39,4 +39,4 @@ Python · Stata · LaTeX · MATLAB · Git
 
 ---
 
-[Portfolio & Research](https://zorromir.github.io/) ·
+*[Portfolio website](https://zorromir.github.io/)*
