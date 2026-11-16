@@ -19,8 +19,8 @@ Mathematical modelling and computational analysis of two-phase flow in industria
 **[Yield Curve Modelling](https://github.com/zorromir/yield-curve-modelling)**  
 Exploring yield curves, discount factors, bond pricing and stochastic interest-rate models, including Vasicek and Monte Carlo methods.
 
-**[What Do Panel Estimators Recover?](https://zorromir.github.io/assets/reports/panel-estimators-monte-carlo.pdf)**  
-A short simulation study comparing panel-data estimators when unobserved individual effects are correlated with regressors. [Python simulation](https://github.com/zorromir/zorromir.github.io/blob/main/projects/panel-estimators/panel_monte_carlo_minimal.py).
+**[What Do Panel Estimators Recover?](https://github.com/zorromir/What-Do-Panel-Estimators-Recover-)**  
+A short simulation study comparing panel-data estimators when unobserved individual effects are correlated with regressors. [Python simulation](https://github.com/zorromir/What-Do-Panel-Estimators-Recover-/blob/main/code/panel_monte_carlo_minimal.py).
 
 **[Testing Financial Factor Models](https://zorromir.github.io/assets/reports/Empirical_finance.pdf)**  
 An MSc group study comparing CAPM and Fama–French factor models using industry portfolio returns, with attention to model fit, pricing errors and econometric inference.
